@@ -3,7 +3,7 @@ Using my file reading skills and data structures skills, I created a Final Exam 
 
 Given the past exams for the three exams given throughout the semester, I made 3 text files with all the exams from each test (ex. all exam 1's were in a text file). I tried to use a converter but because of the different formats (some docx, some scanned jpegs, and some pdf), it was easier to copy and paste each exam manually. 
 
-I took three questions from each exam of three to create a new exam. It doesn't look exactly like the Professor's exams in terms of format because it's jsut a printed version of each question, so if you do generate more than 1 exam, you may want to skip to the next line in between them. If not, the numbers will give away when the next exam starts. Enjoy and I welcome critiques! 
+I took three questions from each exam of three to create a new exam. It doesn't look exactly like the Professor's exams in terms of format because it's just a printed version of each question, so if you do generate more than 1 exam, you may want to skip to the next line in between them. If not, the numbers will give away when the next exam starts. Enjoy and I welcome critiques! 
 
 ## Table of Contents
 - [Get this generator](#two-ways-to-use-this-generator)
