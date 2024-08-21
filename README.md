@@ -8,9 +8,20 @@ Given the past exams for the three tests given throughout the year, I made 3 tex
 
 I took two questions from each exam to create a new exam. 
 
+## Table of Contents
+- [Get this generator](#Two ways to use this generator)
+- [Usage](#usage)
+- []()
+- [Future additions]()
+
+  
 ## Two ways to use this generator 
 ### 1. Clone this repository 
+Copy and paste this into your command line
 
+```git clone https://github.com/mpate154/MA222FinalExamGenerator.git```
+
+OR
 ### 2. Download the raw code from the 'src' file, and all of the 'exam' text files, and open it up on your IDE
 
 ### Future additions
