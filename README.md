@@ -27,9 +27,9 @@ OR
 
 ## Usage
 If the last semester's exams have been added to the Canvas page
-- copy and paste those tests into the appropriate test text files (These files contain up to the 2024 tests) 
-- run the 'main' file to generate an exam!
-- Copy and paste the second line multiple times if you want multiple exams to be generated.
+1. Copy and paste those tests into the appropriate test text files (These files contain up to the 2024 tests) 
+2. Run the 'main' file to generate an exam!
+3. Copy and paste the second line multiple times if you want multiple exams to be generated.
 
 ## What I learned
 - Applied file-reading skills, catching errors and exceptions, importing libraries, and data structures learned in CS 284 (Data Structures) in Java
