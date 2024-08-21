@@ -1,0 +1,458 @@
+1. If scores on an exam are normally distributed with mean 75 and standard
+deviation 7, what score or higher do you need to be in the top 1% of scores?
+2. Assume that IQ scores are normally distributed with mean 100 and standard
+deviation 15. If we sample 30 IQs today and compute the average, and then we
+sample 30 IQs tomorrow and compute that average, what is the probability that at
+least one of those averages will be below 98?
+3. IF 52% of the voters in a election will vote for candidate A in an upcoming
+election, what is the probability that a random sample of 50 voters will result in 24
+or fewer of them planning to vote for Candidate A?
+4. Following is the joint probability distribution for the random variables X and Y.
+.10 .12 .10
+.05 .15 0
+.08 .15 .25
+a) Are X and Y independent? You must explain your answer to receive credit.
+b) Compute the variance of X
+5. If X is a continuous random variable with pdf fX(x)=2x for 0 ≤ x ≤ 1, what is the
+expected value of 1/X?
+6. If X and Y are independent random variables, where X is a continuous random
+variable that has the Uniform Probability distribution between 4 and 7 and Y is a
+random variable with pdf f(y) = 1/5 for 2 ≤ y ≤ 7,
+a) What is the joint pdf of X and Y?
+b) What is E(X + Y)?
+7. Six sets of twins walk into a restaurant and are randomly seated at four tables
+with three seats at each table. What is the expected number of tables that have a
+matched pair of twins seated at the table?
+1. If scores on an exam are normally distributed with mean 40 and standard
+deviation 6, what score or lower puts you in the bottom 10% of scores?
+2. Assume that scores on an exam are normally distributed with mean 80 and
+standard deviation 6. If we sample 30 scores today and compute the average of
+the 30 scores, and then we sample 30 scores tomorrow and compute that average
+of those 30 scores, what is the probability that at least one of those averages will
+be above 81?
+3. If 65% of the population has antibodies for Covid-19, what is the probability that,
+if we take a random sample of 40 people and test them for the antibodies, at least
+27 of them will have the antibodies?
+4. Following is the joint probability distribution for the random variables X and Y.
+.10 .12 .10
+.05 .15 0
+.08 .15 .25
+a) Are X and Y independent? You must explain your answer to receive credit.
+b) What is the expected value of X if Y=2?
+5. If X is a continuous random variable with pdf fX(x)=2x for 0 ≤ x ≤ 1, what is the
+expected value of 1/X?
+6. If X and Y are independent random variables, where X is a continuous random
+variable that has the Uniform Probability distribution between 4 and 7 and Y is a
+random variable with pdf f(y) = 1/5 for 2 ≤ y ≤ 7,
+a) What is E(XY)?
+b) What is the variance of X?
+7. Twelve married couples are entered in a tournament. This group of 24 people is
+randomly split into eight teams of three people each. What is the expected value
+of the number of teams that have a married couple?7. Twelve married couples are entered in a tournament. This group of 24 people is
+randomly split into eight teams of three people each. What is the expected value of the number of teams that have a married couple? 
+1. A large shipment of electronic components is known to contain 5% defective
+components. If you take a random sample of 200 components from the shipment,
+what is the probability that the sample contains more than 14 defective
+components?
+2. Following is the joint probability distribution for the random variables X and Y.
+.2 .1
+.1 0
+.4 .2
+a) Are X and Y independent? Explain.
+b) Find the probability distribution for Z, where Z=X+Y
+3. A candy company claims that in their 1 pound bags of mixed nuts, the average
+number of cashews per bag is 30, with a standard deviation of 3. You randomly
+choose 36 bags today and 36 bags tomorrow and for each of the two days you
+calculate the average number of cashews in the 36 bags.
+What is the probability that both days’ sample averages are less than 29?
+4. X and Y are independent random variables, where X has pdf
+f(x)= ¼ for 1 ≤ x ≤ 5
+and Y is a continuous random variable that is Uniformly distributed between 2
+and 5.
+a) What is E(Y3)?
+b) What is E(XY)?
+c) If you take a sample of each random variable, what is the probability that
+they are both larger than 3?
+5. You place two well-shuffled decks of cards next to each other and you
+simultaneously turn over the top card from each deck see if they match each
+other exactly....for instance if they are both the 9 of diamonds. Then you do the
+same thing with the second cards from each deck, and so on for all 52 cards in
+each deck. What is the expected number of times you will get a match, that is,
+the two cards are exactly the same?
+(You must show how you arrived at your answer.)
+6. Imagine that you are standing in a particular place and you toss a fair coin. If it
+comes up heads you step forward one foot, and if it comes up tails you step
+backward one foot. Then, from your new location, you repeat the
+experiment...and you do this for a total of 100 times (100 coin tosses with the
+resultant step in the appropriate direction).
+What is the probability that after the 100 tosses your location will be at most 10
+feet from where you started?
+1. If X is a continuous random variable with pdf f(x)= x/2 for 0 ≤ x ≤ 2, what is the expected value
+of 1/X?
+2. If test scores on a particular exam are known to be normally distributed with mean 40 and
+standard deviation 2, what score or lower will put you in the bottom 5%?
+3. Following is the joint probability distribution for the two random variables X and Y.
+a) Are X and Y independent?
+b) Find P(X>2)
+c) If you are told that the Y value of a sample (x,y) pair is equal to 3, what is the probability
+that X equals 4?
+4. Scores on an exam are assumed to be normally distributed with mean 75 and standard
+deviation 3. There are two sections of this class, and both took this same exam. Section A has 30
+students and Section B has 25 students. What is the probability that the class averages in each
+section are both greater than 77?
+5. If 12% of a large shipment of components are known to be defective, what is the probability
+that in a random sample of 100 components, more than 14 will be defective?5. If 12% of a large shipment of components are known to be defective, what is the probability
+that in a random sample of 100 components, more than 14 will be defective?
+6. If X is a continuous random variable that is uniformly distributed over the range 2 to 5 and Y is
+a continuous random variable that is uniformly distributed over the range 3 to 7, what is the
+probability that if you take a random sample value of X and a random sample value of Y, that the
+y-value will be less than the x-value?
+7. Use the Method of Indicator/Auxiliary Random Variables to solve the following problem:
+A building has 10 floors above the basement. If 12 people get into an elevator at the basement,
+and each chooses a floor at which to get out, independently of the others, at how many floors do
+you expect the elevator to make a stop to let out one or more of theses 12 people?
+1. 1f it is known that 52% of a population voted for Candidate A in a recent election, what is the
+probability that in a random sample of 150 of these voters, fewer than 75 of them voted for
+Candidate A?
+2. If scores on an exam are Normally Distributed with a mean of 75 and a standard deviation of
+5, what score or lower will put you in the bottom 4%?
+3. If X is a random variable with pdf f(x) x/2; for 0=x=<2 , find:
+a) E(X^3)
+b) V(X)
+4. Following is the joint probability distribution for the random variables X and Y.
+   Y
+X .1 .2
+  .4  0
+  .2 .1
+a) Are X and Y independent?
+b) find the probability distribution for the random variable Z, where Z= X+ Y
+5. Scores on a test are assumed to be normally distributed with mean 80 and a standard deviation
+of 6. 1f 30 students take the exam this year and 30 students take the exam next vear. what is the
+probability that both of the two years' average scores are greater than 827
+6. Use the Method of Indicator/Auxiliary Random Variables to solve the following problem:
+Find the expected number of Aces in 7 cards dealt from a well-shuffled deck of 52 cards
+containing 4 Aces.
+7. If X 1s a continuous random variable with pdf f(x) = 1/3 for 0<x<3, and Y is a continuous random
+variable that is Uniformly Distributed between 0 and 3, what is the probability that if we take
+an observation on each of these two random variables, that the Y-value will be at least one larger
+than the value of the X-value?
+1. Over the past 20 years, final scores in a particular course have been normally
+distributed with an average score of 80 and a standard deviation of 5. Assuming
+that nothing about the course has changed, what is the probability that the
+average score for both of the next two years’ classes (each of size 36 students)
+will be less than 79?
+2. If 2% of a large shipment of components are known to be defective, what is
+the probability that a random sample of 1000 components will contain more than
+30 defectives?
+3. If scores on an exam are known to be Normally Distributed with mean 60 and
+standard deviation 6, what score or lower will put the score in the bottom 2%?
+4. X and Y are independent random variables, where X is a continuous random
+variable uniformly distributed over the interval (1,3) and Y is a continuous random
+variable uniformly distributed over the interval (0,3).
+a) A sample (of size 1) of each random variable is taken. What is the
+probability that both samples are greater than 1.5?
+b) What is E(X2)?
+c) What is E(XY)?
+5. If there are 28 people in a room, what is the expected number of people who
+discover that at least one other person in the room shares their birthday? (HINT:
+use indicator (auxiliary) random variables)
+6. X is a continuous random variable that is uniformly distributed between 0 and
+1, and Y is a continuous random variable that is uniformly distributed between 0
+and 3. A single random sample of each random variable is obtained. What is the
+probability that the X-value is larger than the Y-value?
+7. A stick of length 4 is broken at a uniformly chosen random location. What is the
+expected length of the longer piece? (You must show your work to receive credit.)
+1. If scores on a certain medical test are normally distributed with mean 36 and standard
+deviation 4, what score (or lower) would place a score in the bottom 10% of scores?
+2. Scores on a test are assumed to be normally distributed with mean 80 and standard deviation
+6. If 30 students take the exam this year and 30 students take the exam next year, what is the
+probability that the average on the exam for both years is greater than 82?
+3. Usually 40% of the people invited to a particular party decide to actually attend the party. If
+30 people are invited to the party this year, what is the probability that no more than 15 people
+decide to attend this year?
+4. If Y is a continuous random variable with pdf f(y)= 2y for 0≤y≤1,
+a) find E(Y3)
+b) find V(Y3)
+5. Each day Ms. X plays a series of games in which at each play of the game she wins $1 with
+probability .6 and loses $1 with probability .4 .
+Her strategy for today is: Start playing, and stop playing if she wins the first game. If she loses
+the first game, she will play one more game and then stop playing.
+What is the expected value of her winnings with this strategy?
+(Do not include the $ with your answer.)
+6. Let X have density function f(x)= ½ for 0≤x≤2 and Y be a continuous random variable that is
+Uniformly Distributed on the interval (0,1), and assume that X and Y are independent. Calculate
+the probability P(X−Y>1).
+7. Ten people are sitting in a circle. Each person tosses a fair coin once, and if the result of their
+toss (Heads or Tails) matches the result of at least one of the two people sitting on either side of
+them, then they win a prize of $10.What is the expected value (mathematical expectation) of the
+number of people who win in a single play of this game? (Hint: You can use indicator/auxiliary
+random variables to solve this problem.)
+1. If IQ scores are normally distributed with mean 100 and standard deviation 15, what score or
+higher do you need to be in the top 1% of IQ scores?
+2. Again, if IQ scores are normally distributed with mean 100 and standard deviation 15: If we
+sample 30 IQs today and compute the average, and then we sample 30 IQs tomorrow and compute
+that average, what is the probability that both averages are less than 99?
+3. It is known that about 70 percent of households filled out their 2020 US Census forms on time.
+If we take a random sample of 40 households, what is the probability that fewer than 25 of these
+households filled out their Census Form on time?
+4. If X is a random variable with pdf f(x)=x/2 for 0≤x≤2, find:
+a) E(X2)
+b) V(X2)
+5. If X and Y are independent random variables where X is a continuous random variable that is
+uniformly distributed between 1 and 2, and Y is a continuous random variable with pdf
+f(y)= 2y for 0 ≤y≤1, find E(XY).
+6. Mary is playing a gambling game in which at each play of the game, the probability that she
+wins is 0.52 and the probability that she loses is 0.48 .
+Her strategy for today is: She will play a sequence of games, to a maximum of two games, until
+she wins one game, and then she will stop playing. She starts off by betting $1 on the first
+game; if she wins, she stops playing and is ahead by $1. If she loses the first game, she loses the
+$1, and she bets $2 on the second game (either winning or losing $2 on this game), which is the
+last game regardless of the outcome.
+What is the expected value of Mary’s monetary outcome of this strategy?
+7. Ten people are sitting in a circle. Each person tosses a fair coin once, and if the result of their
+toss (Heads or Tails) matches the result of at least one of the two people sitting on either side of
+them, then they win a prize of $10.What is the expected value (mathematical expectation) of the
+number of people who win in a single play of this game? (Hint: You can use indicator/auxiliary
+random variables to solve this problem.)
+1. If scores on an exam are Normally Distributed with mean 70 and standard deviation 5,
+a) what score is needed to be in the top 10% of scores?
+b) if 30 students take the exam today, what is the probability that the average score of
+the 30 students will be greater than 72?
+2. The ideal size of a freshman class at a certain college is 150 students. The college, knowing
+from past experience that on the average only 30 percent of those accepted for admission will
+actually attend, uses a policy of accepting 450 students for admission. What is the probability
+that more than 150 students will actually attend the college?2. The ideal size of a freshman class at a certain college is 150 students. The college, knowing
+from past experience that on the average only 30 percent of those accepted for admission will
+actually attend, uses a policy of accepting 450 students for admission. What is the probability
+that more than 150 students will actually attend the college?
+3. John is playing a gambling game in which at each play of the game he has a 40% chance of
+winning and a 60% chance of losing. He decides to use the following strategy today: He will
+play a sequence of games, to a maximum of three games, until he wins one game, and then he
+will stop playing, and each time he loses, he will double the amount he bets on the next game.
+He starts off by betting $1 on the first game, and for example, if he loses the first game he bets
+$2 on the second game, and if he loses that game too, he bets $4 on the third game.
+What is the expected value of John’s monetary outcome of this strategy?
+4. X and Y are independent random variables where X is a continuous random variable with pdf
+f(x)= 𝑥
+2 for 0<x<2 and Y is uniformly distributed between 1 and 3. A single sample of each
+random variable is obtained. Calculate the probability that both the X-value and the Y-value are
+between 1 and 2.
+5. If X is a random variable with pdf f(x) = 2x for 0<x<1,
+a) what is E(X2)?
+b) what is V(X2)?
+6. A bowl contains 10 red balls and 10 black balls. You simultaneously remove two balls at a
+time at random from the bowl until the bowl is empty. What is the expected number of times
+that you pick two balls of the same color? Hint: You can use auxiliary (indicator) random
+variables.
+1. Following is the joint probability distribution for random variables X and Y.
+a) Are X and Y independent variables? Explain how you arrived at your answer.
+b) Find the probability distribution for the random variable Z, where Z= X+Y.
+2. If the percentage of people who wear eyeglasses is 30%, what is the probability that in a
+random sample of 150 people, more than 60 of them are wearing eyeglasses?
+3. The weights of adult males in a certain population average 160 pounds with a standard
+deviation of 20 pounds. What is the probability that two successive samples of the weights of 36
+males will both have an average weight of less than 156 pounds?
+4. Four professors give one course each. The courses have 15, 20,70, and 125 students. No
+student takes more than one course. Let the random variable X be the number of students in a
+randomly chosen class and Y be the number of of students in a class of a randomly chosen
+student. Find E(X) and E(Y).4. Four professors give one course each. The courses have 15, 20,70, and 125 students. No
+student takes more than one course. Let the random variable X be the number of students in a
+randomly chosen class and Y be the number of of students in a class of a randomly chosen
+student. Find E(X) and E(Y).
+5. There are ten people in a room. The probability that each pair of people know each other is
+0.10 . What is the expected number of people who don’t know anyone in the room? (Hint: You
+can use auxiliary/indicator random variables to solve this problem.)
+6. If f(x)= 𝑥
+2 for 0<x<2 and Y is uniformly distributed between 0 and ½, calculate P(Y>X).
+Assume X and Y are independent.
+1. If it is known that 52% of a population own an Instant Pot, what is the probability that a
+sample of 200 people will result in fewer than 100 people who own an Instant Pot?
+2. If scores on an exam are distributed with an average score of 75 and a standard deviation of 5,
+what is the probability that two successive samples of 36 scores will both have an average score
+of less than 74?
+3. If scores on an exam are distributed with an average score of 80 and a standard deviation of 4,
+what score or lower would put a score in the lowest 5% of scores?
+4. If X is a continuous random variable with f(x)= 𝑥
+2 for 0<x<2, find
+a) E( X2)
+b) V(X2)
+5. With a well-shuffled standard deck of 52 playing cards you turn the cards over one at a time,
+going through the entire deck. What is expected value of the number of times that two adjacent
+cards are of the same rank (two aces, two kings, etc. )? (Hint: You can use auxiliary/indicator
+random variables to solve this problem.)
+6. Each day Ms. X plays a series of games in which at each play of the game she wins $1 with
+probability 18/38 and loses $1 with probability 20/38.
+Her strategy for today is: Start playing, and stop playing if she wins the first game. If she loses
+the first game, she will play one more game and then stop playing.
+What is the expected value of her winnings with this strategy?
+1. The number of raisins in a certain size box is assumed to be a normally distributed random
+variable with mean number of raisins per box of 66 and with a standard deviation of 6. Samples
+of 30 boxes are randomly chosen on two successive days, and the average number of raisins is
+calculated for each of the two days. What is the probability that the average number of raisins
+in both of the samples is greater than 67?
+2. If 20 percent of residents in a certain city have no medical coverage, what is the probability
+that more than 25 percent of a random sample of 50 residents have no medical coverage?
+3. Scores for people on a particular medical test are assumed to be normally distributed with
+mean 45 and variance 36. What score or lower would put a randomly chosen person in the
+bottom 10% of scores?
+4. If X is a continuous random variable that is Uniformly Distributed over the interval (1,4),
+compute:
+a) E(X3)
+b) V(X3)
+5. Let X have density function f(x)= ½ for 0<x<2 and Y be a continuous random variable that is
+Uniformly Distributed on the interval (0,1), and assume that X and Y are independent. Calculate
+the probability P(X−Y>1).
+6. Suppose a game piece moves along a board according to the following rule: if the roll of a
+die gives a 1 or a 2 then take two steps ahead, otherwise take three steps ahead. Approximate
+the probability that after 120 rolls the piece has moved more than 315 steps.
+1. If 52% of a city’s voting population favors Candidate A in an upcoming election, what is the
+probability that in a random sample of 200 voters, fewer than 50% of the voters favor Candidate
+A?
+2. If the production line is operating properly, the fill weights of coffee filling 16-ounce coffee
+cans on a coffee-packing line are distributed as a Normal Probability Distribution with a mean
+weight of 16 ounces and standard deviation of 0.05 ounces. To monitor the proper operation of
+the coffee-packing line, 4 cans are chosen at random from the production line every hour, the
+weights of the coffee in the 4 cans are noted, and the average weight of the samples is computed.
+If the coffee-packing line is operating properly, what is the probability that the next two sample
+average weights will both be less than15.98 ounces?
+3. If X is a continuous random variable that is uniformly distributed over the interval [0,1]
+a) What is E(X3)?
+b) What is V(X3)?
+4. Ten people are sitting in a circle. Each person tosses a fair coin once, and if the result of their
+toss matches the result of at least one of the two people sitting on either side of them, then they
+win a prize of $10.What is expected value (mathematical expectation) of the total prize money
+paid out in a single play of this game? (Hint: You can use indicator/auxiliary random variables
+to solve this problem.)
+5. X and Y are continuous random variables with X being uniformly distributed over [0,1] and Y
+being uniformly distributed over [0,2]. If one sample observation is taken from each of these two
+random variables, what is the probability that three times the x-value will be greater than the y-value?
+1. 1f 10% of the population has red hair, what is the probability that in a random
+sample of 100 people, the percentage of people with red hair will be between 9%
+and 11%?
+2. Over the past 20 years, final scores in a particular course have been normally
+distributed with an average score of 80 and a standard deviation of 5. Assuming
+that nothing about the course has changed, what is the probability that the average
+score for both of the next two years’ classes (each of size 36 students) will be less
+than 78?7
+3. Following is the joint probability distribution for the random variables X and Y:
+a) Are X and Y independent? Explain your answer.
+b) Find the probability distribution for the random variable Z, where Z=X+Y
+4. X is acontinuous random variable uniformly distributed over the interval (1,3)and Y
+is a continuous random variable uniformly distributed over the interval {0,3).
+a) A sample (of size 1) of each random variable is taken. What is the probability
+that both samples are greater than 1.5 ?
+b) What is E(X^2)?
+c) Whatis E(XY)?
+5. Ifthere are 28 people in a room, what is the expected number of people who
+discover that at least one other person in the room shares their birthday? (HINT:
+use indicator (auxiliary) random variables)
+1. The amount of coffee packed in a 15-ounce can is known to be Normally Distributed with
+mean 15.1 ounces and standard deviation 0.25 ounces. A random sample of 16 cans is chosen,
+and the weight of each can is measured. What is the probability that the average weight of the
+16 can is less than 15 ounces?
+2. If scores on a certain medical test are normally distributed with mean 36 and standard
+deviation 4, what score (or lower) would place a score in the bottom 10% of scores?2. If scores on a certain medical test are normally distributed with mean 36 and standard
+deviation 4, what score (or lower) would place a score in the bottom 10% of scores?
+3. Usually 40% of the people invited to a particular party decide to actually attend the party. If
+30 people are invited to the party this year, what is the probability that no more than 15 people
+decide to attend this year?
+4.If X and Y are independent random variables with
+f(x)= x
+2 for 0<x<2
+and g(y)= 2y 0<y<1
+Compute: E(XY)
+5. John has 3 brothers, named A, B, and C.
+On any given day, brother A calls John with probability 0.3, brother B calls John with probability
+0.4, and brother C calls John with probability 0.7. Let X be the number of brothers that call John
+tomorrow.
+Find the expected value of X.
+Hint: express X as the sum of suitable indicator/auxiliary random variables.
+1. Scores on a Final Exam in a particular course have been found over the years to be Normally
+Distributed with mean 82 and standard deviation 6. This year 30 students are going to take the
+final exam. What is the probability that this year’s class average on the Final Exam will be less
+than 80?
+2. If scores on a certain medical test are normally distributed with mean 36 and standard
+deviation 4, what score (or lower) would place a score in the bottom 10% of scores?
+3. It is known that about 70 percent of dogs who enter guide dog training programs are
+successful. This year’s class of potential guide dogs consists of 40 dogs. What is the probability
+that fewer than 25 dogs from this group are successful?
+4. If X and Y are independent random variables with
+f(x)= x
+2 for 0<x<2
+and g(y)= 2y 0<y<1
+Compute: E(XY)
+5. Jessica has a four-sided die (with the numbers 1 through 4 on it), a six-sided die (with the
+numbers 1 through 6 on it), and a 12-sided die (with the numbers 1 through 12 on it). She rolls
+each die once.
+Let Z be the total number of fours showing on the three dice. Find the expected value of Z.
+Hint: express Z as the sum of suitable indicator/auxiliary random variables.5. Jessica has a four-sided die (with the numbers 1 through 4 on it), a six-sided die (with the
+numbers 1 through 6 on it), and a 12-sided die (with the numbers 1 through 12 on it). She rolls
+each die once.
+Let Z be the total number of fours showing on the three dice. Find the expected value of Z.
+1. A wire-bonding system normally runs with the mean pull strength at 10 pounds. It is known
+that the pull-strength measurements are normally distributed with a population standard
+deviation of 1.5 pounds. Periodic samples of size 4 are taken from the process and the process
+is said to be “out of control” if a sample mean is found to be less than 7.75 pounds. What is the
+probability that a particular sample mean will be found to be “out of control” (less than 7.75
+pounds) if:
+a) the mean pull strength is still 10 pounds?
+b) the mean pull strength is actually 9 pounds?
+2. Two types of coins are produced at a factory: a fair coin, and a biased one that comes up heads
+55 percent of the time. We have one of these coins but do not know whether it is a fair coin or a
+biased one. In order to ascertain which type of coin we have, we shall perform the following
+statistical test: We shall toss the coin 1000 times. If the coin lands on heads 525 or more times,
+then we shall conclude that the coin is a biased coin; otherwise we shall conclude that the coin is
+fair. If the coin is actually fair, what is the probability that we falsely conclude that the coin is a
+biased one?
+3. Each day Ms. X plays a series of games in which at each play of the game she wins $1 with
+probability 18/38 and loses $1 with probability 20/38.
+Her strategy for today is: Start playing, and stop playing if she wins the first game. If she loses
+the first game, she will play one more game and then stop playing.
+What is the expected value of her winnings with this strategy?
+4. Consider the following joint probability distribution for the random variables X and Y:
+P[ X=0, Y=0 ] = 1/6
+P[ X=1, Y=0 ] = 1/12
+P[ X=1, Y=1 ] = 1/6
+P[ X=2, Y=0 ] = 1/12
+P[ X=2, Y=1 ] = 1/3
+P[ X=2, Y=2 ] = 1/6
+Calculate the variance of X.
+5. A hat contains 10 pieces of paper, each with a different person’s name on it. Person A
+randomly selects 3 names out of the hat, after which the 3 names are returned to the hat and then
+Person B randomly selects 3 names out of the hat. What is the expected number of names that
+are selected by both Person A and Person B? Hint: Use auxiliary (indicator) random variables.
+6. OPTIONAL PROBLEM, FOR EXTRA CREDIT (20 points!) no partial credit on this problem
+X is a continuous random variable that is uniformly distributed between 0 and 1, and Y is a
+continuous random variable that is uniformly distributed between 0 and 3. A single random
+sample of each random variable is obtained. What is the probability that the X-value is larger
+than the Y-value?
+1. The ideal size for the entering first-year class at a particular college is 150 students. The
+college knows from past experience that on the average only 30% of the students they accept will
+actually decide to attend the college. Knowing this, the college Admissions Office decides to
+send offers of admission to 450 students. Compute the probability that more than 150 accepted
+students will actually decide to attend the college.
+2. In a particular statistics course, the average final grade for the students in the class over the
+past years has been 82, with a standard deviation of 5. What is the probability that this year’s
+class (with 36 students in it) will have an average final grade of more than 84?
+3. Consider the following joint probability distribution of the random variables X and Y:
+P(X=0, Y=0) = 1/6
+P(X=1, Y=0) = 1/12
+P(X=1, Y=1) = 1/6
+P(X=2, Y=0) = 1/12
+P(X=2, Y=1) = 1/3
+P(X=2, Y=2) = 1/6
+Calculate the variance of X.
+4. Each day Ms. X plays a series of games in which at each play of the game she wins $1 with
+probability 18/38 and loses $1 with probability 20/38.
+Her strategy for today is: Start playing, and stop playing if she wins the first game. If she loses
+the first game, she will play one more game and then stop playing.
+What is the expected value of her winnings with this strategy?
+5. A hat contains 10 pieces of paper, each with a different person’s name on it. Person A
+randomly selects 3 names out of the hat, after which the 3 names are returned to the hat and then
+Person B randomly selects 3 names out of the hat. What is the expected number of names that
+are selected by both Person A and Person B? Hint: Use auxiliary (indicator) random variables.
+6. OPTIONAL PROBLEM, FOR EXTRA CREDIT (20 points!) no partial credit on this problem
+X is a continuous random variable that is uniformly distributed between 0 and 1, and Y is a
+continuous random variable that is uniformly distributed between 0 and 3. A single random
+sample of each random variable is obtained. What is the probability that the X-value is larger
+than the Y-value?

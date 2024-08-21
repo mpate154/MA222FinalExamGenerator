@@ -1,0 +1,497 @@
+1. A thief plans to rob four banks. His town has six banks. He could rob a bank twice, but never
+consecutively. In how many different ways can he select the four banks?
+2. Assume that 5% of a large shipment of transistors are defective. You begin testing transistors
+one by one. What is the probability that the second defective transistor is found at the fourth
+transistor sampled?
+3. A club has 25 members, 10 men and 15 women. A committee of three members is to be
+chosen at random from the 25 members. What is the probability that the committee is composed
+of three members of the same gender? (Do not compute out to a single numerical answer.)
+4. John and Mary each toss a die twice. What is the probability that they both get the same
+number of “fours”?
+5. Ten persons in a room are wearing badges marked 1 through 10. Three persons are chosen at
+random, and their badge number is noted.
+a) What is the probability that the smallest badge number is 5?
+b) What is the probability that the largest badge number is 5?
+6. Two teams are playing a best-of-seven series...that is, the first team to win 4 games wins the
+series, after which no further games are played. Assume that team A is slightly better than Team
+B, with P(Team A wins a game against Team B)= 0.6 . If Team A has won three of the first four
+games, what is the probability that Team A wins the series?
+7. Instead of the numbers 1 through 6 on a typical die, a “strange” die has TWO faces with the
+number 4 on them, and the other four faces are 1,2,3, and 6. Three dice are on the table, one is this
+“strange” die, and the other two are normal dice with the faces 1 through 6.
+One of these three dice is selected at random and tossed. What is the probability that the number
+4 comes up?
+8. A group of 6 people in a restaurant order cocktails: 2 people order Bloody Marys and the other
+4 people order Manhattans. When the server returns with the 6 drinks, she randomly puts a drink
+down in front of each person. What is the probability that all six people get the drink that they
+ordered?
+9. Consider the below network of components, with the component reliabilities (component
+probability of working properly) written inside each component in the diagram.
+Compute the reliability of the network, that is: the probability that A is successfully connected to
+B.
+1. If 2% of laboratory mice are albino, what is the probability of getting at least one albino
+mouse in a random sample of 20 mice?
+2. Assuming that 12% of the population is left-handed, and people are successively sampled
+from this population until the second left-handed person is found. What is the probability that
+the second left-handed person will be found at the fourth person sampled?
+3. Albert and Ronaldo each toss a coin twice. What is the probability that Ronaldo gets more
+Heads that Albert?
+4. A cage consists of 15 mice, of which 5 are white, 5 are grey, and 5 are black. Three mice are
+chosen at random from the 15 (without replacement, of course). What is the probability that all
+three of these mice are the same color?
+5. There are 10 men and 4 women in Room A and 4 men and 6 women in Room B. One of the
+14 people in Room A is chosen at random and moved into Room B. Then a person is randomly
+chosen from Room B. What is the probability that that randomly chosen person from Room B
+is a woman?
+6. A fair die is rolled six times. What is the probability of one or more “6”s and no “1”
+occurring?
+7. Eight balls are distributed at random among 11 cups. What is the probability that no cup
+contains two or more balls?
+1. If 15% of a population is left-handed, what is the probability of getting at least one left-
+handed person in a random sample of 10 people from this population?
+2. It is known that 3% of a large shipment of items are defective. Items are successively sampled
+until the second defective item is found. What is the probability that the second defective will
+be found at the fourth item sampled?
+3. Maria and Susan each toss a die twice. What is the probability that Maria gets more even
+numbers than Susan?
+4. A room contains 6 Americans, 6 Englishmen, and 6 Germans. A committee of three is chosen
+at random from this group of 18 people. What is the probability that all three people on the
+committee are from the same country?
+5. In a laboratory, there are two cages with mice in them, Cage A and Cage B. Cage A contains 4
+grey mice and 5 white mice, and Cage B contains 7 grey mice and 5 white mice. A mouse is
+randomly chosen from Cage A and moved into Cage B, after which a mouse is randomly chosen
+from Cage B, which now contains 13 mice. What is the probability that the mouse randomly
+chosen from Cage B is white?
+6. An urn contains 5 balls, with the letters A,B,C,D, and E on them, respectively. Five balls are
+chosen at random, WITH replacement. What is the probability that the letter C is chosen one
+or more times, and the letter E is never chosen?
+7. An elevator leaves the basement with 8 people and stops at each of the 11 floors in the
+building. If it is equally likely that a passenger gets off at any of the 11 floors, what is the
+probability that no two passengers get off at the same floor?
+1. If 10% of the population has a certain characteristic, what is the probability that in a
+random sample of ten people, at least one of them will have the characteristic?
+2. In a small class of 12 students, each week for 5 weeks one of the students is chosen at random
+to be the note-taker. What is the probability that no student is chosen to do this task
+more than once in the 5 weeks?
+3. From an urn containing 4 Black balls and 6 White balls, balls are selected WITH
+replacement until a 3rd Black ball has been selected. What is the probability that this 3rd
+Black ball is chosen on the 4th pick?
+4. From a group of 7 men and 3 women, a committee of 3 people is chosen. What is the
+probability that the 3 people selected for the committee are not all of the same sex?
+DO NOT COMPUTE OUT TO A SINGLE NUMERICAL ANSWER.
+5. Five cards are chosen at random from an ordinary deck of 52 (without replacement). What
+is the probability that you get “four of a kind”, which means four cards of the same rank, and one
+other card? Examples are : 4444Q or JJJJ7.
+DO NOT COMPUTE OUT TO A SINGLE NUMERICAL ANSWER
+6. Consider the below network of components, with the component reliabilities (component
+Probability of working properly) written inside each component in the diagram.
+Compute the reliability of the network, that is: the probability that A is successfully connected to
+B.
+7. A manufacturing process produces integrates circuit chips. Over the long run, the fraction of
+bad chips produced by the process is about 20%. Thoroughly testing a chip to determine
+whether it is good or bad is rather expensive, so a cheap test is used. All good chips pass the
+cheap test, but so do 10% of the bad chips.
+a) Given that a chip passes the cheap test, what is the probability that it is a good chip?
+b) If a company using this manufacturing and testing process sells all the chips which pass
+the cheap test, over the long run what percentage of the chips sold will be bad?7. A manufacturing process produces integrates circuit chips. Over the long run, the fraction of
+bad chips produced by the process is about 20%. Thoroughly testing a chip to determine
+whether it is good or bad is rather expensive, so a cheap test is used. All good chips pass the
+cheap test, but so do 10% of the bad chips.
+1. If it is estimated that each time you take an airplane flight, the probability that it will crash is
+1 in a 1000, what is the probability that you will have at least one crash in your next 1000
+flights?
+2. Urn 1 has 5 Red balls and 3 Black balls. Urn 2 has 3 Red balls and 4 Black balls. You choose
+one ball at random from Urn 1 and put it into Urn 2. Then you choose one ball at random from
+Urn 2, which of course now has 8 balls in it. What is the probability that the ball you choose
+from Urn 2 is Red?
+3. Each of two persons tosses a fair coin twice. What is the probability that they each obtain
+the same number of Heads in their two tosses?
+4. You have 2 Red bowls, 2 Black bowls and 2 White bowls. You also have 6 balls, 2 Red, 2 Black,
+and 2 White. You now randomly put the 6 balls into the bowls, with one ball per bowl. What is
+the probability that every bowl has a ball of the same (matching) color?
+5. An eyewitness to a mugging states that the assailant had red hair. Eyewitnesses generally
+correctly identify the hair color of an assailant 90% of the time. If the city in which the assault
+took place has about 5% red-headed people, what is the probability that the eyewitness
+correctly identified the hair color of the assailant?
+6. Product X is made with 25 precisely and properly placed staples. If any one or more of the
+staples are not properly installed, then the Product X item is defective and needs to be
+discarded. If about 20% of the Product X items turn out to be defective, what is the probability
+that a random staple will be not properly installed?
+1. John and Mary each toss a die twice. What is the probability that they both get the same
+number of “fours”?
+2. A die is tossed repeatedly until the second occurrence of a “five” comes up. What is the
+probability that the second occurrence of a “five” is on the fourth toss?
+3. Assuming that each of the 12 months has 30 days,
+a) If 5 students are chosen at random, find the probability that at least two of them
+were born in the same month
+b) If Alice is one of the 5 students, find the probability that at least one of the other
+students was born in the same month that she was
+4. Suppose ½ % (.005) of the population has a disease D. There is a test to test for this disease.
+A positive result is supposed to mean that you have the disease, but the test is not perfect. For
+people WITH D, the test misses the diagnosis 2% of the time; that is, it reports a false negative.
+For people WITHOUT D, the test incorrectly tells 3% of them that they have D; this is, it reports
+a false positive.
+Find the probability that a person chosen at random will test positive.
+5. Six people are sitting at a table in a restaurant. Two of them order the house salad and the
+other four order a Caesar salad. The waiter forgets who ordered what and randomly puts the
+salads down in front of the six people. What is the probability that each person gets the correct
+salad ?
+6. John and Michael are playing a best-of-five series of games...that is, the first player to win
+three games wins the series. John is a little bit better at the game than Michael; his probability
+of winning in a single game is .60 . If they each win one of the first two games in a particular
+series (so the series score is tied at 1-1), what is the probability that John wins the series?
+1. You play a game in which you roll a die twice, and you win if the largest number rolled on the two rolls is a
+one, two, three, or four.
+What is the probability that you win this game?
+2. What is the probability of getting at least one occurrence of a "3" in four rolls of a die?
+3. A basket contains 4 apples, 3 pears, and 2 peaches.
+a) From this basket, you select six pieces of fruit (without replacement). What is the probability that you get
+two pieces of each kind of fruit?
+b) If instead of the above selection procedure, you reach into the basket with both hands and simultaneously
+grab six pieces of fruit, what is the probability that you get two pieces of each kind of fruit?
+4. Assume that 12% of the population is left-handed. If we successively sample people to see if they are left-
+handed or not, what is the probability that the second left-handed person will appear at the fourth person
+sampled?
+5. A basket consists of 7 balls, each of a different color (7 colors in all). You choose 4 balls at random WITH
+REPLACEMENT. What is the probability that some color appears more than once?
+6. An urn contains 5 Black balls and 5 Red balls. Three balls are chosen at random WITH REPLACEMENT. What is
+the probability that the three balls chosen are not all the same color?
+7. Someone rolls 2 dice out of your sight, and truthfully tells you that there was at least one occurrence of a "6".
+What is the probability that a "double six" was rolled, that is, that both dice were a "6"?
+8. Two families, one consisting of 2 people and one consisting of 4 people, go into a restaurant and give their hats
+to the greeter for the greeter to hang them in a closet room. Both members of family A are wearing a green
+Mickey Mouse hat, and all four members of Family B are wearing a red Mickey Mouse hat. When they leave the
+restaurant, the greeter distributes the hats randomly to the six people. What is the probability that each person
+gets the correct color hat?
+9. Two boxes are placed in front of you. One box contains nine $1 bills and one $5 bill. The other box contains
+two $1 bills and one $100 bill. You choose one of the boxes at random and then randomly choose two bills out of
+the randomly chosen box. The two bills that you have chosen are both $1 bills.
+a) What is the probability that you selected the box with the $100 bill?
+b) Now you get to choose a third bill out of one of the two boxes. You have to decide whether to choose
+the third bill from the same box that you just chose the two bills from, or whether to choose the third
+bill from the other box, and you wish to make your choice so as to maximize the probability of picking
+the $100 bill. Which box do you choose from which to choose your third bill? To get credit for this
+part of the problem, you need to support your answer by calculating the probability of picking the
+$100 bill for each choice of box.
+1. A shipment of 10 items contains 2 defectives and 8 non-defectives. You choose two items at
+random from the shipment (without replacement). What is the probability that you get exactly
+one defective in the two items chosen?
+2. Assume that 12% of the population is left-handed. We randomly select people until we get
+two left-handed people. What is the probability that we find the second left-handed person at
+the fourth person we sample?
+3. Two teams are playing a best-of-seven series...that is, the first team to win 4 games wins the
+series. Assume that team A is slightly better than Team B, with P(Team A wins a game against
+Team B)= 0.6 .If Team A has won three of the first four games, what is the probability that Team
+A wins the series?
+4. A multiple-choice exam gives 5 choices per question. On 75% of the questions, you think
+you know the answer, but you’re only right 80% of the time. On the other 25% of the
+questions, you just guess an answer at random. a) What is the probability that you get an
+arbitrary question right? b) If you do get a particular question right, what is the probability
+that it was a lucky guess?
+5. Given 4 married couples, 3 single men, and 5 single women, one man and one woman are
+chosen at random from the group. Find the probability that a) both are married b) only one is
+married
+6. A fair die is rolled six times. What is the probability of one or more “6”s and no “1”
+occurring?
+7. Imagine a game of three players in which each has an equal chance of winning the game.
+If the game is played four times, what is the probability that there is at least one player who
+wins no games?
+1. An urn contains 4 balls: 1 White, 1 Green, and 2 Red. Three balls are drawn with
+replacement.
+a) What is the probability that all three balls are the same color?
+b) What is the probability that you do not get one of each color?
+2. Roll a fair die 4 times. What is the probability that some number appears more than once?
+3. A coin is tossed four times. What is the probability that the tosses result in 2 Heads, with the
+second Head coming on the fourth toss?
+4. Six people are sitting at a table in a restaurant. Two of them order the house salad and the
+other four order a Caesar salad. The waiter forgets who ordered what and randomly puts the
+salads down in front of the six people. What is the probability that each person gets the correct
+salad ?
+5. At a dance, there are three married couples. For the next dance, the wives are randomly
+paired off with the men. What is the probability that each of the three men dances with a
+woman who is not his wife? (You must justify your answer to receive credit.)
+6. John and Michael are playing a best-of-five series of games...that is, the first player to win
+three games wins the series. John is a lttle bit better at the game than Michael; his probability
+of winning in a single game is .60 . If they each win one of the first two games in a particular
+series (so the series score is tied at 1-1), what is the probability that John wins the series?
+7. Consider three urns: Urn 1 contains two Green balls, Urn 2 contains two Yellow balls, and
+Urn 3 contains one Green and one Yellow ball. An Urn is chosen at random and a ball is chosen
+at random from that chosen urn; the chosen ball turns out to be Yellow. What is the
+probability that Urn 3 was the chosen urn? (You must justify your answer to receive credit.)
+1. An urn contains 5 red, 6 blue, and 8 green balls. If 3 balls are chosen from the urn without
+replacement,
+a) what is the probability that all 3 balls will be of the same color?
+b) what is the probability that the balls are all different colors?
+2. From an urn containing 6 balls numbered 1 through 6, you choose 4 balls, with replacement.
+What is the probability that some number appears more than once?
+3. A very large population contains 12% Red-headed people. If four people are chosen at
+random from this population, what is the probability that there are two Red-headed people in
+the group, with the second Red-headed person coming on the fourth pick?
+4 Three men check their hats and the hats are later returned at random. What is the
+probability that John is the only one to get his own hat? (You must justify your answer to receive
+credit.)
+5. Two evenly matched teams are playing a best-of-seven series...that is, the first team to win 4
+games wins the series. If Team A has won three of the first four games, what is the probability
+that Team A wins the series?
+6. Suppose we have 3 cards identical in form except that both sides of the first card are red,
+both sides of the second card are black, and the third card is colored red on one side and black
+on the other side. The three cards are mixed up and one of them is chosen at random and put
+on the table. If the upper side of the chosen card is red, what is the probability that the other
+side is colored black? (You must justify your answer to receive credit.)
+7. A well-shuffled standard deck of 52 cards is divided randomly into four piles of 13 cards
+each. What is the probability that each pile contains exactly one Ace? (It is not necessary to
+calculate out to a single numerical answer.)
+1. A class of 50 students has 40 CS majors and 10 Math majors.
+You select students at random (without replacement, of course) until you have selected a Math
+major. What is the probability that it takes more than two selections to get that first Math major?
+2. John and Mary each toss a fair coin twice. What is the probability that Mary gets more “Heads”
+than John?
+3. An urn contains 12 balls: four red, four black, and four green. Three balls are selected at random
+without replacement. What is the probability that all three balls are the same color?
+4. You have two dice, one normal one with the numbers 1 through 6 on the six faces, and the other
+one with a 3 on three of the faces, and a 4 on the other three faces.
+You choose a die at random from the two dice and toss it and a 4 comes up. What is the probability
+that the die you selected was the one with all six numbers on it?4. You have two dice, one normal one with the numbers 1 through 6 on the six faces, and the other
+one with a 3 on three of the faces, and a 4 on the other three faces.
+You choose a die at random from the two dice and toss it and a 4 comes up. What is the probability
+that the die you selected was the one with all six numbers on it?
+5. Consider the below network of components, with the component reliabilities (component
+probability of working properly) written inside each component in the diagram.
+Compute the reliability of the network, that is: the probability that A is successfully connected to
+B.
+6. There are 8 floors in a building, each floor having 5 apartments, with one person living in each
+apartment. Three of the tenants randomly meet in the lobby,
+a) what is the probability that at least two of them live on the same floor?
+b) if Mrs. Smith is one of the three people who meet, what is the probability that at least one of the
+other people lives on the same floor that she does?
+1. Players A and B play a game in which two fair dice are rolled. If the largest number
+rolled in the two rolls is one, two, three, or four, Player A wins; otherwise, Player B wins.
+What is the probability of Player A winning?
+2. A well-shuffled standard deck of 52 cards is divided randomly into four piles of 13 cards
+each. What is the probability that each pile contains exactly one Ace? (It is not necessary to
+calculate out to a single numerical answer.)
+3. There are six cups on the table, three red and three blue. You have six balls, three red
+and three blue. You randomly distribute one ball into each cup. What is the probability that
+each ball ends up in a cup of the same color?
+4. J, P, and R are experienced darts players. The probability of J hitting a bullseye in a single
+throw is 1/3, and this hitting probability is 1/5 for P, and ¼ for R. The three players each
+throw one dart simultaneously. Two of the darts hit the bullseye, and one of the darts
+misses the bullseye. What is the probability that J is one who missed? (Assume the hitting
+events are independent of each other.)4. J, P, and R are experienced darts players. The probability of J hitting a bullseye in a single
+throw is 1/3, and this hitting probability is 1/5 for P, and ¼ for R. The three players each
+throw one dart simultaneously. Two of the darts hit the bullseye, and one of the darts
+misses the bullseye. What is the probability that J is one who missed? (Assume the hitting
+events are independent of each other.)
+5. It is believed with probability 0.4 that a particular wrecked ship will be found in a
+certain area in the ocean. A search in that area will find the wreck with probability 0.9 if it
+is there. If the area is searched and no wreck is found, what is the probability now that the
+wreck is in that area?
+6. An urn contains five balls, with the letters A, B, C, D, and E on them, respectively. Five
+balls are chosen at random, WITH replacement. What is the probability that the letter A is
+chosen one or more times , and the letter E is never chosen?
+1. Five people each choose two distinct (different) numbers at random from the numbers
+1, 2, 3, 4, 5, 6, and 7. What is the probability that at least two people will choose the same
+two numbers? (It is not necessary to calculate out to a single numerical answer.)
+2. A building has three floors. Each floor has four apartments and each apartment has one
+resident. Three residents meet each other coincidentally in the entrance to the building.
+What is the probability that these three residents live on different floors?
+3. Five people are sitting at a table in a restaurant. Two of them order coffee and the other
+three order tea. The waiter forgets who ordered what and randomly puts the drinks down
+in front of the five people. What is the probability that each person gets the correct drink?
+4. There are two bags in front of you. One bag has three white balls and one red ball. The
+other has one white ball and three red balls. You choose one of the bags at random and
+randomly pick one ball out of this bag. You see that the ball you picked is red. You then put
+the red ball back in the bag and pick another ball at random out of that same bag. What is
+the probability that the second ball you picked is red?
+5. Every evening, two weather stations issue a weather forecast for the next day. The
+weather forecasts of the two stations are independent of each other. On average, the
+weather forecast of Station 1 is correct 90% of the time, irrespective of the weather type
+forecast. This percentage is 80% for Station 2. On a given day, station 1 predicts sunny
+weather for the next day, whereas Station 2 predicts rain. What is the probability that the
+weather forecast for Station 1 will be correct?
+6. A fair die is rolled six times. What is the probability of one or more “6”s and no “1”
+occurring?
+1. An urn contains 10 marbles labeled with the numbers 1 to 10. We sample 2 marbles without
+replacement. What is the probability that the sample contains the marble labeled 1?
+2. Roll a fair die 4 times. What is the probability that some number appears more than once?
+3. In a town 15% of the population is blond, 25% of the population has blue eyes and 2% of the
+population is blond with blue eyes. What is the probability that a randomly chosen individual
+from the town is not blond and does not have blue eyes?
+4. Two cards are dealt from an ordinary deck of 52 cards. (This means selection without
+replacement.)
+What is the probability that both cards are aces with one of them being the ace of spades?
+5. Imagine a game of three players in which each player has an equal chance (1/3) of winning
+the game. If the game is played four times, what is the probability that there is at least one
+person who wins no games?
+6. The Acme Insurance company has two types of customers, careful and reckless. A careful
+customer has an accident during the year with probability 0.01 . A reckless customer has an
+accident with probability 0.04 . It is known that 80% of the customers are careful and 20% are
+reckless. Suppose a randomly chosen customer has an accident this year. What is the
+probability that this customer is one of the careful customers?
+1. If only 1 out of 10 of medical school applicants get accepted , what is the probability that in a
+group of 20 applicants, at least one of them gets accepted?
+2. A committee of 7 is to be chosen at random from 6 men, 7 women, and 8 children. What is
+the probability that the committee contains exactly two men?
+3. Two urns, labeled A and B, each contain 3 red balls and 3 black balls. John chooses two balls
+without replacement from urn A and Mary chooses two balls with replacement from urn B.
+What is the probability that they both choose the same number of red balls?3. Two urns, labeled A and B, each contain 3 red balls and 3 black balls. John chooses two balls
+without replacement from urn A and Mary chooses two balls with replacement from urn B.
+What is the probability that they both choose the same number of red balls?
+4. A coin is tossed repeatedly until the second Head comes up. What is the probability that
+the second occurrence of a Head is on the fourth toss?
+5. Assuming that each of the 12 months has 30 days,
+a) If 5 students are chosen at random, find the probability that at least two of them
+were born in the same month.
+b) If Alice is one of the 5 students, find the probability that at least one of the other
+students was born in the same month that she was.
+6. Suppose ½ % (.005) of the population has a disease D. There is a test to test for this disease.
+A positive result is supposed to mean that you have the disease, but the test is not perfect. For
+people WITH D, the test misses the diagnosis 2% of the time; that is, it reports a false negative.
+For people WITHOUT D, the test incorrectly tells 3% of them that they have D; this is, it reports
+a false positive.
+Find the probability that a person chosen at random will test positive.
+1. If about 1 in 10,000 people have a certain gene, what is the probability that at least 1
+person in a group of 20,000 will have this gene?
+2. Five tickets to a particular concert are distributed at random to a group of 18 people
+consisting of 3 Americans, 7 Russians, and 8 Germans. What is the probability that only one of
+the Germans gets a ticket?
+3. Mr. X chooses two cards without replacement from an ordinary deck of 52 cards, after which
+Ms. Y chooses two cards with replacement from a different ordinary deck of 52 cards. What is
+the probability that they both get the same number of hearts in their two selections?3. Mr. X chooses two cards without replacement from an ordinary deck of 52 cards, after which
+Ms. Y chooses two cards with replacement from a different ordinary deck of 52 cards. What is
+the probability that they both get the same number of hearts in their two selections?
+4. A die is tossed repeatedly until the second occurrence of a “five” comes up. What is the
+probability that the second occurrence of a “five” is on the fourth toss?
+5. Assuming that each of the 12 months has 30 days,
+a) If 5 students are chosen at random, find the probability that at least two of them
+were born in the same month
+b) If Alice is one of the 5 students, find the probability that at least one of the other
+students was born in the same month that she was
+6. An insurance company believes that 30% of drivers are careless, and the probability that a
+driver will have an accident in any one year is 0.4 for a careless driver and 0.2 for a careful
+driver.
+Find the probability that a driver will have an accident next year given that they have an
+accident this year.6. An insurance company believes that 30% of drivers are careless, and the probability that a
+driver will have an accident in any one year is 0.4 for a careless driver and 0.2 for a careful
+driver.
+Find the probability that a driver will have an accident next year given that they have an accident this year
+1. If 2% of the population has red hair, what is the probability of finding at least one red-
+headed person in a random sample of 25 people?
+2. Cards are dealt (which means without replacement) from an ordinary deck of 52 until the
+second spade appears. What is the probability that the second spade occurs on the tenth card
+dealt?
+3. Seven students are in a room, four males and three females, and one of the males is named
+John. A committee of size four is to be randomly selected from this group such that it contains
+two males and two females. What is the probability that John is selected to be on the
+committee?
+4. Robert chooses two cards without replacement from an ordinary deck of 52 cards, after
+which Alice chooses two cards with replacement from a different ordinary deck of 52 cards.
+What is the probability that they both get the same number of hearts in their two selections?
+5. Bayes Theorem has sometimes been used in court cases to evaluate statistical evidence.
+Consider the following problem:
+After a robbery the thief jumped into a taxi and disappeared. An eyewitness on the crime scene
+is telling the police that the cab is yellow. In order to make sure that this testimony is worth
+something the assistant DA makes a Bayesian analysis of the situation. After some research she
+comes up with the following information:
+• In that particular city 80% of the taxis are black and 20% of the taxis are yellow.
+• Eyewitnesses are not always reliable and from past experience it is expected that an
+eyewitness is 80% accurate. That is, the witness will identify the color of a taxi accurately
+(yellow or black) 8 out of 10 times.
+Question: What is the probability that the witness has correctly identified the color of the taxi?
+6. Imagine we randomly generate a six-digit number, that is: we make six draws with
+replacement from the digits 0 through 9. (Yes, it is acceptable for the leading digit to be 0.)
+a) What is probability of generating the number 999999?
+b) What is the probability of generating the number 703482?
+c) What is the probability of generating a sequence of six identical digits?
+d) What is the probability of generating a sequence with no identical digits?
+e) What is the probability of generating a sequence with exactly one repeating digit?
+1. John and Mary each toss a die twice. What is the probability that they both get the same
+number of “fours”?
+2. From a deck containing the usual 52 cards find the probability that a randomly dealt five-card
+poker hand (the same as choosing 5 cards at random without replacement) will have all 5 cards
+be of the same suit. (Do not compute out to a single numerical answer.)
+3. Assume that 12% of the population is left-handed. A random sample of people from this
+population is tested for left-handedness. What is the probability that the second left-handed
+person is found at the third person sampled?3. Assume that 12% of the population is left-handed. A random sample of people from this
+population is tested for left-handedness. What is the probability that the second left-handed
+person is found at the third person sampled?
+4. Ten persons in a room are wearing badges marked 1 through 10. Three persons are chosen at
+random, and their badge number is noted.
+a) What is the probability that the smallest badge number is 5?
+b) What is the probability that the largest badge number is 5?
+5. John has 3 email accounts. 70% of all his email messages come to Account 1, 20% come to
+Account 2, and 10% come to Account 3. The percentage of messages in each account that are
+spam are 1% for Account 1, 2% for Account 2, and 3% for Account 3.
+What is the probability that John’s next email message will be spam?
+6. Consider the below network of components, with the component reliabilities (component
+probability of working properly) written inside each component in the diagram. Compute the
+reliability of the network, that is: the probability that A is successfully connected to B.6. Consider the below network of components, with the component reliabilities (component
+probability of working properly) written inside each component in the diagram. Compute the reliability of the network, that is: the probability that A is successfully connected to B.
+1. John and Mary each toss a die twice. What is the probability that they both get the same
+number of “fours”?
+2. If 12% of a population is left-handed, what is the probability of getting at least one left-handed
+person in a random sample of 20 people?
+3. It is known that 4% of a large shipment of items are defective. Items are successively chosen
+at random from the shipment and tested. What is the probability that the second defective item is
+found at the fourth item sampled?
+4. If there are four people in a room, what is the probability that at least two of them have the
+same birthday? (Assume a 365-day year.)
+5. Instead of the numbers 1 through 6 on a typical die, a “strange” die has TWO faces with the
+number 4 on them, and the other four faces are 1,2,3, and 6. Three dice are on the table, one is
+this “strange” die, and the other two are normal dice with the faces 1 through 6.
+One of these three dice is selected at random and tossed. What is the probability that the number
+4 comes up?
+6. An urn has 3 red balls, 4 black balls, and 5 green balls, and one of the 5 green balls has a blue
+dot painted on it. Six balls are chosen at random from this urn. What is the probability that two
+balls of each color are chosen, with one of the two green balls being the one with the blue dot?
+1. If 70% of the population wears eyeglasses, what is the probability that in a group of 3
+randomly selected people at least one of them will be wearing glasses?
+2. A die is tossed until a “4” appears. What is the probability that it will take more than 3 tosses
+to get that first “4”?
+3. John is going to take three shots at a target. On any single shot, the probability that he
+scores a hit is 0.9 .
+What is the probability that John scores at least two hits in his three shots at the target?
+4. If two dice are rolled, what is the probability that the sum of the two dice will be equal to
+eight?
+5. In a group of 12 students, four are male and eight are female (one of the eight females is
+named Susan). If a committee of 5 students is selected at random, what is the probability that
+the committee has three females and two males with Susan being one of the females?
+6. A gambler has in his pocket a fair coin and a two-headed coin. He selects one of the coins at
+random; when he flips it it comes up Heads.
+a)What is the probability it is the fair coin?
+b) Suppose he flips the same coin a second time and again it shows heads. What is now
+the probability that it is the fair coin?
+7. Consider a city where all the homeowners have both liability insurance coverage and
+property damage coverage. This year 4% of the homeowners will file a liability claim and 10%
+of the homeowners will file a property claim. 1% of the homeowners will file only a liability
+claim (and not a property claim).
+Calculate the probability that a randomly selected homeowner will not file a claim of either
+type.7. Consider a city where all the homeowners have both liability insurance coverage and
+property damage coverage. This year 4% of the homeowners will file a liability claim and 10%
+of the homeowners will file a property claim. 1% of the homeowners will file only a liability
+claim (and not a property claim).
+Calculate the probability that a randomly selected homeowner will not file a claim of either type.
+1. When Mary goes fishing for a day, the probability that she catches a fish is 0.4 (she never
+catches more than one fish on a day because when she does catch a fish she goes home for the
+day).
+What is the probability that Mary catches at least 2 fish in the next 3 days of fishing?
+2. A fair coin is tossed until a “Head” comes up. What is the probability that it takes more than
+two tries to get that first “Head”?
+3. If 12% of the population are left-handed, what is the probability that in a group of four
+randomly chosen people, at least one of them will be left-handed?
+4. If two dice are rolled, what is the probability that the sum of the two dice will be equal to
+six?
+5. In a group of 12 dogs in a kennel, four are brown and eight are black (one of the eight black
+dogs is named Rover). If 5 dogs are selected at random to be trained as guide dogs, what is the
+probability that the group of 5 dogs has three black dogs and two brown dogs with Rover being
+one of the black dogs?
+6. When Coin #1 is flipped, it comes up heads with probability ¼, and when Coin #2 is flipped, it
+comes up heads with probability ¾. We choose one of these two coins at random and flip it
+twice. If both flips come out Heads, what is the probability that Coin #2 was the coin that was
+flipped?
+7. Consider a city where all the homeowners have both liability insurance coverage and
+property damage coverage. This year 4% of the homeowners will file a liability claim and 10%
+of the homeowners will file a property claim. 1% of the homeowners will file only a liability
+claim (and not a property claim).
+Calculate the probability that a randomly selected homeowner will not file a claim of either
+type.

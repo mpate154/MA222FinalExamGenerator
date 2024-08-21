@@ -1,0 +1,494 @@
+1. You toss a die until you get the fourth occurrence of a “5”. What is the probability that you
+get this fourth occurrence of a “5” on the 10th toss?
+2. Assuming that 12% of the population is left-handed, what is the expected number of people
+you have to sample to get two people that are left-handed?
+3. If 40% of marriages end in divorce and we assume that divorces are independent of each
+other, find the probability that of 8 couples,
+a) of the 8 couples, only the Smiths and the Jones will stay married
+b) of the 8 couples, two will stay married and six will get divorced
+4. Customers arrive at a bank according to a Poisson Distribution with an average of 4
+customers per minute. What is the probability that the time until the first customer of the
+day arrives is less than 30 seconds?
+5. Customers arrive at a bank according to a Poisson Process with an average of one arrival
+every thirty seconds. What is the probability that exactly 2 customers arrive in the next
+minute?
+6. If X is a continuous random variable that is uniformly distributed between 0 and 1, what is
+the standard deviation of X?
+7. If you randomly sample 10 numbers from a continuous random variable that is Uniformly
+Distributed between 2 and 6, what is the probability that the smallest of these 10 values will be
+less than 3?7. If you randomly sample 10 numbers from a continuous random variable that is Uniformly
+Distributed between 2 and 6, what is the probability that the smallest of these 10 values will be less than 3?
+1. A large shipment of components has just arrived and it is known that 5% of the components
+are defective. You decide to sample from this shipment (without replacement, naturally) until
+you get the 3rd occurrence of a defective component. What is the probability that you get this
+3rd defective on the 8th component that you sample?
+2. Customers arrive at a bank according to a Poisson Process with an average of one arrival
+every thirty seconds. What is the probability that exactly 2 customers arrive in the next
+minute?
+3. Your coffee shop claims that their customers spend an average of 30 seconds getting served.
+What is the probability that the next time you go to that coffee shop, you get served within
+thirty seconds?
+4. 10% of a certain type of component fail within the first three weeks of use. If 6 of these
+components are installed in a device and the components are numbered 1 through 6, what is
+the probability that of the 6 components,
+a) Of the six components, two of them fail within the first three weeks of use?
+b) Only the components numbered 3 and 6 fail within the first three weeks of use?4. 10% of a certain type of component fail within the first three weeks of use. If 6 of these
+components are installed in a device and the components are numbered 1 through 6, what is
+the probability that of the 6 components,
+a) Of the six components, two of them fail within the first three weeks of use?
+b) Only the components numbered 3 and 6 fail within the first three weeks of use?
+5. 2% of a large shipment of items are known to be defective. What is the expected number of
+items you have to sample to get two defective items?
+6. If X is a continuous random variable that is uniformly distributed between 0 and 1, what is the
+standard deviation of X?
+7. If you randomly sample 10 numbers from a continuous random variable that is Uniformly
+Distributed between 2 and 6, what is the probability that the largest of these 10 values will be
+larger than 5?
+1. A thief plans to rob four banks. His town has six banks. He could rob a bank twice,
+but never consecutively. In how many different ways can he select the four banks?
+2. John and Mary play a game in which Mary tosses a die 12 times. If she gets exactly 2
+sixes in the 12 tosses, she wins $10; otherwise she loses $10.
+What is Mary’s Expected Gain (Mathematical Expectation) in dollars of playing this game
+once?
+3. You and I each roll a die simultaneously. You win if the number showing on your die is
+larger than the number showing on my die. Otherwise you lose. What is the probability that
+you win this game?
+4. Albert is trapped in a room with 4 doors, only one of which leads to freedom. Albert
+tries the doors one at a time until he finds the one that leads to freedom. (Naturally, once
+he tries a door and it does not lead to freedom, he does not try that door again.) What is
+the mathematical expectation of the number of doors that he tries until he can leave the
+room?
+5. A shipment of components arrives at your factory and your plan to test the incoming
+quality is to start testing randomly selected components until you get a second defective
+component.
+If 2% of the very large shipment of components are defective, what is the expected value
+(mathematical expectation) of the number of components you will need to test to get that
+second defective component?
+6. If X is a continuous random variable that is uniformly distributed between 7 and 10,
+what is the standard deviation of X?
+7. Customers arrive at a bank according to a Poisson Process with an average of one arrival
+every thirty seconds. What is the probability that exactly 3 customers arrive at the bank
+between 10:15 and 10:16 AM on both today AND tomorrow?
+8. Your coffee shop claims that service time at their facility is exponentially distributed and
+that their customers spend an average of two minutes getting served. What is the
+probability that the next time you go to that coffee shop, you get served within two
+minutes?
+1. A stick of length L is cut in two at a random point on the stick. What is the probability that
+neither of the two resulting segments is smaller than L/3?
+2. If the time between incoming phone calls at a phone center is exponentially distributed with
+an average of 30 seconds between phone calls, what is the probability of exactly 2 phone calls
+coming in during the next minute?
+3. If X is a continuous random variable that is Uniformly distributed between 5 and 10, what is
+the standard deviation of X?
+4. In a certain town, crimes occur at a Poisson rate of five per month. What is the probability of
+having exactly two months (not necessarily consecutive) with exactly five crimes in the next
+year?
+5. A large shipment of components is delivered to you, and it is known that 2/3 of them are
+functional. You start testing the components one by one...what is the Expected number of
+components you will need to test until you get two functional components?
+6. m people (m > 2) play a game called Odd Player Wins, in which each of the m persons tosses
+a fair coin, and the winner, if there is one, is the player who gets an outcome different from the
+other players....that is, a player wins if they are alone in getting a head or a tail.
+What is the probability that there is a winner in a single play of this game?
+1. If the times between arrivals at a bank are exponentially distributed with an average of 30
+seconds between arrivals, what is the probability that exactly three people come in during the
+next minute?
+2. A stick of length L is cut in two at a random point on the stick. What is the probability that
+the longer segment resulting from the cut is at least twice as long as the shorter segment?
+3. If X is a continuous random variable that is Uniformly distributed between 2 and 5, what is
+the standard deviation of X?
+4. Accidents occur at a particular intersection at a Poisson rate of three per day. What is the
+probability that during the next 7 days there are exactly three days (not necessarily
+consecutive) with exactly two accidents?
+5. Assuming that 12% of the population is left-handed, what is the expected number of people
+you have to sample to get two people that are left-handed?
+6. in a game called “odd man out”, n people ( n > 2) each toss a coin to see who (called the
+loser of the game) will buy the drinks that night for the entire group. That is, a player loses if
+they are alone in getting a head or a tail, and naturally, a play of the game might not result in
+one player being alone in getting a head or a tail.
+What is the probability that there is a loser in a single play of this game?
+1. You toss a die until you get the fourth occurrence of a “5”. What is the probability that you
+get this fourth occurrence of a “5” on the 10th toss?
+2. John is looking at 4 boxes on a table and is told that only one of them contains a prize. John
+opens the boxes, one at a time, until he opens the box with the prize. (Naturally, once he
+opens a box, and it does not contain the prize, he does not open that box again.) What is the
+mathematical expectation of the number of boxes John needs to open until he gets the box
+with the prize in it?
+3. If 40% of marriages end in divorce and we assume that divorces are independent of each
+other, find the probability that of 8 couples,
+a) of the 8 couples, only the Smiths and the Jones will stay married
+b) of the 8 couples, two will stay married and six will get divorced3. If 40% of marriages end in divorce and we assume that divorces are independent of each
+other, find the probability that of 8 couples,
+a) of the 8 couples, only the Smiths and the Jones will stay married
+b) of the 8 couples, two will stay married and six will get divorced
+4. Customers arrive at a bank according to a Poisson Distribution with an average of 4
+customers per minute. What is the probability that the time until the first customer of the
+day arrives is less than 30 seconds?
+5. Customers arrive at a bank according to a Poisson Process with an average of one arrival
+every thirty seconds. What is the probability that exactly 2 customers arrive in the next
+minute?
+6. You toss two coins repeatedly until you get either 2 Heads or 2 Tails on the two coins.
+What is the Expected Value of the number of tosses of the two coins that you have to do in order
+to get that result?
+7. Consider a disk of radius 4 as our dartboard and assume that a thrown dart lands on a uniformly
+random point on the disk. (This means that the probability of the dart landing in a particular area
+A of the dartboard is the ratio of the area of A to the area of the entire dartboard.)
+Let R be the random variable which is the distance of the dart from the center of the disk.
+Find the pdf of R.
+1. A large shipment of components has just arrived and it is known that 5% of the components
+are defective. You decide to sample from this shipment (without replacement, naturally) until
+you get the 3rd occurrence of a defective component. What is the probability that you get this
+3rd defective on the 8th component that you sample?
+2. Customers arrive at a bank according to a Poisson Process with an average of one arrival
+every thirty seconds. What is the probability that exactly 2 customers arrive in the next
+minute?
+3. Your coffee shop claims that their customers spend an average of 30 seconds getting served.
+What is the probability that the next time you go to that coffee shop, you get served within
+thirty seconds?
+4. 10% of a certain type of component fail within the first three weeks of use. If 6 of these
+components are installed in a device and the components are numbered 1 through 6, what is
+the probability that of the 6 components,
+a) Of the six components, two of them fail within the first three weeks of use?
+b) Only the components numbered 3 and 6 fail within the first three weeks of use?
+5. You toss three dice simultaneously and continue doing this until you get a toss where all three
+numbers showing are different. What is the expected number of tosses needed to achieve this
+result?
+6. You wake up a prisoner in a room with 3 doors, and you want to escape from the room. Only
+one of the doors leads you to freedom; the other two doors lead to dead ends and if you choose
+one of these two, you have to return to the room and try again to escape. Assume that when
+you return to the room after a failed try for freedom you fall asleep, and when you wake up you
+choose a door at random from the three doors, because you have forgotten which door(s) you
+tried previously.
+What is the expected value (mathematical expectation) of the number of doors you need to try
+to get to freedom?
+7. If you randomly select ten values (samples) from a continuous random variable that is
+Uniformly Distributed between 0 and 1, what is the Expected Value (Mathematical Expectation)
+of the largest of these ten values?
+1. You have forgotten in which of 5 desk drawers you left your car keys. If you open the drawers
+at random one at a time, what is the expected value of the number of drawers you have to open
+to get your keys?
+2. A very large shipment of components has arrived at your store, and it is known that 40% of the
+components are painted red. You start selecting components one at a time from the shipment
+and noting whether the component is red or not, and you continue doing this until you have
+selected 4 red components. What is the probability that the 4th red component is chosen on the
+8th component that you select?
+3. A continuous random variable X has the Uniform Probability Distribution over the range of
+values from 3 to 7. Compute the standard deviation of X.
+4. 10% of a certain type of component fail within the first three weeks of use. If 6 of these
+components are installed in a device and the components are numbered 1 through 6, what is
+the probability that of the 6 components,,
+a) Only the components numbered 3 and 6 fail within the first three weeks of use?
+b) Of the six components, two of them fail within the first three weeks of use?
+5. Arrivals at a bank are assumed to follow a Poisson process with an average of 3 arrivals per
+minute. If you arrive there at a random time tomorrow, what is the probability that the time to
+the next arrival after you is greater than one minute?
+6. The time your local coffee shop takes to prepare your morning coffee order is a random
+variable that is exponentially distributed with average time 90 seconds. What is the probability
+that tomorrow morning when you go for your coffee the preparation time is more than 1
+minute?
+1. If the probability is 1 in a thousand that you win a certain lottery each time you play it, what is
+the probability that you will win the lottery at least once if you play it 1,000 times?
+2. Customers enter a coffee shop according to a Poisson Process with an average of 2 customers
+per half hour. What is the probability that today exactly 3 customers arrive in both (each) of the
+time intervals 9-10AM and 1-2PM?
+3. Assume that the time it takes to get a dial tone is exponentially distributed with mean waiting
+time 2 seconds. What is the probability that the next time you try to make a phone call, you will
+get a dial tone in less than 2 seconds?
+4. An airline takes 22 reservations each day for its flight to Cape Cod in a small plane which only
+has room for 20 passengers. Their reservation history reveals that individual passengers have a
+no-show rate of about 10% for each flight, that is, the probability that a passenger with a
+reservation will fail to show up for the flight is .1 . What percentage of the airline's flights end
+up being over-booked, that is, that more than 20 passengers show up for the flight?
+5. You toss a die repeatedly until the number "6" comes up for the fourth time. What is the
+probability that the fourth "6" comes up on the seventh toss?
+6. A brand of cereal puts one out a set of 10 different plastic animals into every box of cereal.
+Little Johnnie gets a kangaroo in his first box of cereal, and likes it so much that he wants a second
+kangaroo so that he has a family to play with. What is the expected number of additional cereal
+boxes Johnnie must buy in order to get that second kangaroo? Assume that the animal in each box
+is equally likely to be any one of the 10 different animals.
+7. If X is a continuous random variable that has the Uniform probability distribution between 2
+and 5,
+a) calculate P(X<4│X≥3)
+b) calculate the variance of X
+1. You repeatedly choose one ball, with replacement, from an urn containing 8 Red balls and 2
+Green balls, until you get a Green ball for the fifth time. What is probability that this happens
+on the eighth pick?
+2. If f(x) = x/2 for 0 ≤ x ≤ 2, what is the probability that a random observation of X will be greater
+than the average (mean) value of the random variable X?
+3. The number of arrivals at a bank has a Poisson probability distribution with average time
+between arrivals of 20 seconds. What is the probability that there are no arrivals in the next
+minute?
+4. What is the standard deviation of a continuous random variable that is Uniformly Distributed
+over the values 1 to 5?
+5. Telephone calls to a radio talk show last 3 minutes on the average, and assume that the
+length of telephone calls is exponentially distributed.
+a) Find the probability that a call will last less than 2 minutes.
+b) Suppose a call has lasted 2 minutes already. What is the probability that it last longer
+than average?
+6. Consider a disk of radius 6 as our dartboard and assume that a thrown dart lands on a
+uniformly random point on the disk. (This means that the probability of the dart landing in a
+particular area A of the dartboard is the ratio of the area of A to the area of the entire dartboard.)
+Let R be the random variable which is the distance of the dart from the center of the disk.
+Find the pdf of R. (Hint: first find the cdf of R.)
+7. You wake up a prisoner in a room with 3 doors, and you want to escape from the room. Only
+one of the doors leads you to freedom; the other two doors lead to dead ends and if you choose
+one of these two, you have to return to the room and try again to escape. Assuming that you
+would not try to leave by the same door more than once, what is the expected value
+(mathematical expectation) of the number of doors you need to try to get to freedom?
+1. John is looking at 4 boxes on a table, and is told that only one of them contains a prize. John
+opens the boxes, one at a time, until he opens the box with the prize. (Naturally, once he
+opens a box, and it does not contain the prize, he does not open that box again.) What is the
+mathematical expectation of the number of boxes John needs to open until he gets the box
+with the prize in it?
+2. Consider a post office staffed by two clerks. Suppose that when Mr Smith enters the system,
+he discovers that Clerk 1 is serving Mary and Clerk 2 is serving Alan. Mr Smith will begin his
+service with a clerk as soon as either Mary or Alan finish their service and leave. If the amount
+of time that a clerk spends with a customer is exponentially distributed with mean service time
+2 minutes, what is the probability that, of the three customers, Mr Smith is the last one to leave
+the post office?
+3. If X is a continuous random variable having pdf f(x)= x/2 for 0≤x≤2, what is the probability
+that exactly seven out of ten random observations of X will be larger than the average (mean)
+value of X?
+4. Seven people each toss a die 3 times. What is the mathematical expectation of the number
+of people who do not get a “4” in their 3 tosses?
+5. A coin with P(Head)= 0.6 is tossed 10 times, and the result is 7 Heads and 3 Tails. What is
+the probability that one of the Heads was on the 8th toss?
+6. If the number of calls coming into a switchboard is Poisson distributed with an average of 5
+calls per minute, what is the probability that the time to the first call of the day is more than 30
+seconds?
+7. An experiment consists of repeatedly tossing 3 dice until the faces of all 3 dice are different
+(no repeated faces). What is the mathematical expectation of the number of times you will
+need to toss the 3 dice to achieve this?
+1. Ten people each toss a coin three times, with P(Head)= 0.6 .
+What is the mathematical expectation of the number of people who get no Heads in the 3
+tosses?
+2. A local Starbucks coffee shop has two baristas filling orders, and it is known that the time it
+takes for each barista to complete an order is exponentially distributed with average 60
+seconds. You are next in line with barista 1 filling an order for John and barista 2 filling an order
+for Mary. When one of these two customers gets their order, you will proceed to that barista
+to get your order filled. What is the probability that, of these three customers, you will be the
+last one of the three to leave the coffee shop with your coffee order?
+3. People arrive at a bank according to a Poisson Process with an average of one arrival every 4
+minutes. What is the probability that the time to the day’s first arrival is more than 60
+seconds?
+4. Ms. X is trapped in a room with 4 doors, only one of which leads to freedom. Ms. X tries the
+doors one at a time until she finds the one that leads to freedom. (Naturally, once she tries a
+door and it does not lead to freedom, she does not try that door again.) What is the
+mathematical expectation of the number of doors that she tries until she can leave the room?
+5. If X is a continuous random variable having the Uniform probability distribution between 1
+and 5, what is the probability that, of six observations taken of this random variable, three of
+them will be larger than or equal to 4?
+6. An experiment consists of repeatedly tossing 2 fair coins until the toss results in one each of
+a Head and a Tail. What is the mathematical expectation of the number of times you will need
+to toss the 2 coins to achieve this?
+7. A die is tossed 8 times, with the number “4” coming up twice. What is the probability that
+one of the “4”s was on the 6th toss?
+1. If the probability of winning a certain lottery is 1 in 10,000, what is the probability that you
+win at least once if you play 10,000 times?
+2. If you make two observations at random on a random variable X with pdf
+fX(x) = 2x for 0 ≤ x ≤ 1 , what is the probability that both observations will be larger than
+the mean value of X?
+3. A bank claims that the average waiting time to be served is exponentially distributed with
+average waiting time 20 seconds. What is the probability that the next time you visit the
+bank your waiting time will be more than 20 seconds?
+4. You repeatedly play a game in which at each play you win an apple with probability 0.4 .
+What is the probability that you win your fourth apple on the seventh play of the game?
+5. Customers arrive at a bank according to a Poisson Distribution with an average of 4
+customers per minute. What is the probability that the time until the first customer of the
+day arrives is less than 30 seconds?
+6. You are kidnapped and drugged and you wake up in a room with 4 doors that are each
+marked EXIT.
+Two of these doors just open up to a brick wall, and two of them will lead you to freedom.
+You open the doors one at a time until you open a door that will lead you to freedom. What
+is the expected value (mathematical expectation) of the number of doors you open until
+you are on your way to freedom?
+7. If X is a continuous random variable that has the Uniform Probability distribution between 2
+and 6,
+a) Calculate P(X<5│X≥3)
+b) Calculate the variance of X
+1. Assume that you have a coin that is twice as likely to turn up “Heads” as “Tails”. You toss the
+coin repeatedly until it comes up “Heads”. What is the expected value (mathematical
+expectation) of the number of tosses until this event occurs?
+2. Calls come into a switchboard independently at an average rate of 6 per minute. ( This
+wording implies a Poisson Process.)
+a) What is the probability that the time to the first call is greater than 30 seconds?
+b) What is the probability that there are exactly 6 calls arriving in the next minute?
+3. A die is tossed repeatedly until a “Five” comes up for the third time. What is the probability
+that this happens on the seventh toss?
+4. If about 1 in 10,000 people have a certain gene, what is the probability that at least 1
+person in a group of 20,000 will have this gene?
+5. If the time to failure of an electronic component is exponentially distributed with average
+time to failure of 6 months, what is the probability that a randomly selected component will fail
+in the first two months of use?5. If the time to failure of an electronic component is exponentially distributed with average
+time to failure of 6 months, what is the probability that a randomly selected component will fail
+in the first two months of use?
+6. If X is a continuous random variable having pdf f(x)= 2x for 0≤x≤1, what is the probability
+that exactly seven out of ten random observations of X will be larger than the average (mean)
+value of X?
+1. John is going to roll a die repeatedly until he gets a “six”.
+a) What is the probability that it takes him at least four rolls to get that first “six”?
+b) What is the average number of rolls needed to get that first “six”?
+2. X is a continuous random variable having the Uniform probability distribution between 5 and 10.
+A sample of four independent observations of X is taken, and the following game is played
+(with Player A) with those four observations: If all the observations are larger than 8, player A
+wins $75, but if at least one of the observations is less than 8, player A loses $2. What is the
+mathematical expectation (expected value) of this game to player A?
+3. A fair coin is tossed until the third “Head” appears. What is the probability that it takes
+exactly eight tosses for that third “Head” to appear?
+4. Accidents on a particular machine in a factory are Poisson distributed with an average of 4
+accidents per 100 hours of operation.
+a) What is the probability of at least one accident in the next 50 hours of production?
+b) What is the probability that the time it takes to the first accident is less than 20 hours?
+5. Let T be the random variable: the time to failure of a certain electronic component, with T
+having an exponential probability distribution with mean time to failure 12 minutes. Ten of
+these electronic components are chosen at random and their times to failure are observed.
+What is the probability that exactly five of the ten components last longer than 12 minutes?
+6. If about 1 in 10,000 people have a certain gene, what is the probability that at least 1
+person in a group of 20,000 will have this gene?
+1. If the probability that you die on an airplane trip is one in a thousand each time
+that you fly, what is the probability that you will survive your next 1000 airplane
+trips?
+2. A die is tossed 3 times. You win $4 if all 3 tosses are even numbers; otherwise
+you lose $1. What is the expected value of this game to you?
+3. If X is a random variable with probability distribution:
+X 1 2 3 4
+P(X) 2/5 1/5 1/5 1/5
+a) Calculate P(X≤3│X≥2)
+b) Calculate the variance of X
+4. Your local coffee shop claims that a customer’s waiting time until they are
+being served is exponentially distributed with and average waiting time of 30
+seconds. What is the probability that when you next visit the coffee shop, your
+waiting time will be more than one minute?
+5. There are five closed boxes on a table. Three of the boxes have a prize inside
+and the other two are empty. You open boxes one at a time until you find a prize.
+Compute the expected value (mathematical expectation) of the number of boxes
+you open.
+6. Let T be a random variable, where T equals the time to the first occurrence of
+an event in a Poisson Process with parameter λ (average number of occurrences
+per unit time). (Recall that in a Poisson Process the number of occurrences per
+unit unit time has a Poisson Probability Distribution with parameter λ.
+Prove that T is an exponential random variable with parameter λ, that is, that
+fT(t)= λe-λt for t ≥ 0.
+7. Pick a random point (x,y) from inside the triangle with vertices (0,0), (4,0), and
+(0,2). This is equivalent to saying that the triangle is formed by the lines x=0, y=0,
+and y= - x/2 + 2. Find the probability that the distance from this point to the y-axis
+is less than 2.7. Pick a random point (x,y) from inside the triangle with vertices (0,0), (4,0), and
+(0,2). This is equivalent to saying that the triangle is formed by the lines x=0, y=0,
+and y= - x/2 + 2. Find the probability that the distance from this point to the y-axis
+1. A die is tossed until the third “4” comes up. What is the probability that the third “4”
+appears on the 18th toss?
+2. A continuous random variable X is uniformly distributed over (0,10). Compute the probability
+that an observed value of X will be within one standard deviation of its mean.
+3. Customers arrive at a particular store according to a Poisson Process, with an average time
+between customer arrivals of 2 minutes. We arrive at the store one day at 10:15 AM. What is
+the probability that the time until the next customer comes into the store is more than 5
+minutes?
+4. If 40% of marriages end in divorce and we assume that divorces are independent of each
+other, find the probability that of 8 couples,
+a) of the 8 couples, only the Smiths and the Jones will stay married
+b) of the 8 couples, two will stay married and six will get divorced
+5. Consider a disk of radius 4 as our dartboard and assume that a thrown dart lands on a
+uniformly random point on the disk. (This means that the probability of the dart landing in a
+particular area A of the dartboard is the ratio of the area of A to the area of the entire
+dartboard.)
+Let R be the random variable which is the distance of the dart from the center of the disk.
+Find the pdf of R. (Hint: first find the cdf of R.)
+6. A stick of length 4 is broken at a uniformly chosen random location. What is the expected
+length of the longer piece? (You must show your work to receive credit.)
+1. John is going to roll a die repeatedly until he gets a “six”.
+a) What is the probability that it takes him at least four rolls to get that first “six”?
+b) What is the average number of rolls needed to get that first “six”?
+2. X is a continuous random variable having the Uniform probability distribution between 5 and
+10. A sample of four independent observations of X is taken, and the following game is played
+(with Player A) with those four observations: If all the observations are larger than 8, player A
+wins $75, but if at least one of the observations is less than 8, player A loses $2. What is the
+mathematical expectation (expected value) of this game to player A?
+3. A fair coin is tossed until the third “Head” appears. What is the probability that it takes
+exactly eight tosses for that third “Head” to appear?
+4. Accidents on a particular machine in a factory are Poisson distributed with an average of 4
+accidents per 100 hours of operation.
+a) What is the probability of at least one accident in the next 50 hours of production?
+b) What is the probability that the time it takes to the first accident is less than 20 hours?
+5. Let T be the random variable: the time to failure of a certain electronic component, with T
+having an exponential probability distribution with mean time to failure 12 minutes. Ten of
+these electronic components are chosen at random and their times to failure are observed.
+What is the probability that exactly five of the ten components last longer than 12 minutes?
+1. Assume that you have a coin that is twice as likely to turn up “Heads” as “Tails”. You toss the
+coin repeatedly until it comes up “Heads”. What is the expected value (mathematical
+expectation) of the number of tosses until this event occurs?
+2. Calls come into a switchboard independently at an average rate of 6 per minute. ( This
+wording implies a Poisson Process.)
+a) What is the probability that the time to the first call is greater than 30 seconds?
+b) What is the probability that there are exactly 6 calls arriving in the next minute?
+3. A die is tossed repeatedly until a “Five” comes up for the third time. What is the probability
+that this happens on the seventh toss?
+4. If about 1 in 10,000 people have a certain gene, what is the probability that at least 1
+person in a group of 20,000 will have this gene?
+5. If the time to failure of an electronic component is exponentially distributed with average
+time to failure of 6 months, what is the probability that a randomly selected component will fail
+in the first two months of use?
+6. If X is a continuous random variable having pdf f(x)= 2x for 0≤x≤1, what is the probability
+that exactly seven out of ten random observations of X will be larger than the average (mean)
+value of X?
+1. Ten independent observations are taken on a random variable X, where X is a continuous
+random variable that is uniformly distributed over the range (1,7). What is the probability that
+exactly seven of the ten observations will be larger than 5?
+2. A die is rolled until either a “5” or a “6’” comes up. What is the expected value
+(mathematical expectation) of the number of rolls until this event occurs?
+3. Customers arrive independently at a bank at the average rate of 6 per ten-minute period.
+(This wording implies a Poisson Process.)
+a) What is the probability that the next customer will arrive within 2 minutes?
+b) What is the average time to the next arrival?
+4. A fair coin is tossed repeatedly. What is the probability that the third “Head” comes up on
+the sixth toss?
+5. If only 1 out of 10 of medical school applicants get accepted , what is the probability that in a
+group of 20 applicants, at least one of them gets accepted?
+6. If the lifetime of a printer is exponentially distributed with mean time to failure of 2 years,
+what is the probability that a randomly chosen printer will fail within the first 6 months?
+1. If f(x) = x/2 for 0 ≤ x ≤ 2, what is the probability that a random observation of X will be greater
+than the average (mean) value of the random variable X?
+2. Accidents on a particular machine in a factory are Poisson distributed with an average of 4
+accidents per 100 hours of operation.
+a) What is the probability of at least one accident in the next 50 hours of production?
+b) What is the probability that the time it takes to the first accident is less than 20
+hours?
+3. Assume that restaurant patrons who make a reservation for dinner have a 0.1 probability of
+not showing up to honor the reservation, and that this probability is independent of other
+patron’s decisions. If a restaurant accepts 20 reservations for 18 seats, what is the probability
+that the restaurant will be overbooked? (overbooked means that more patrons show up than
+there are seats)
+4. An insurance policy on an electrical device pays a benefit of $4000 if the device fails during
+the first year. The amount of the benefit decreases by $1,000 each successive year until it
+reaches zero. If the device has not failed by the beginning of any given year, the probability of
+failure during that year is 0.4 . What is the expected payout by the insurance company on this
+policy?
+5. Students in a class are sequentially tested for high blood pressure. Let X represent the
+number of tests completed until the first student with high blood pressure is found. We are
+given that the average value of X is 12.5 . Calculate the probability that the sixth student
+tested is the first one with high blood pressure.
+1. The number of arrivals at a facility has a Poisson probability distribution with average time
+between arrivals of 20 seconds. What is the probability that there are no arrivals in the next
+minute?
+2. A study is being conducted in which the health of two independent groups of 10 people is
+being monitored over a one-year period of time. Individual participants in the study drop out
+with probability 0.2 (independently of the other participants).
+What is the probability that at least 9 participants complete the study in one of the two groups ,
+but not in both groups?
+3. If X is a random variable with pdf fX(x) = 2x for 0 ≤ x ≤ 1 , what is the probability that a
+random observation of X will be within half of the standard deviation of its mean? (that is, the
+difference between the observation and the mean will be less than half the size of the standard
+deviation)3. If X is a random variable with pdf fX(x) = 2x for 0 ≤ x ≤ 1 , what is the probability that a
+random observation of X will be within half of the standard deviation of its mean? (that is, the
+difference between the observation and the mean will be less than half the size of the standard
+deviation)
+4. An experiment consists of repeatedly tossing 3 dice until the faces of all 3 dice are different
+(no repeated faces). What is the expected value of the number of times you will need to toss
+the 3 dice to achieve this?
+5. The lifetime of a printer costing $200 is exponentially distributed with mean 2 years. The
+manufacturer agrees to pay a full refund to a buyer if the printer fails during the first year
+following its purchase, a one-half refund if it fails during the second year, and no refund for
+failure after the second year.
+Calculate the expected amount of refund to a single buyer.
+6. An actuary has discovered that policyholders are three times as likely to file two claims in a
+year as to file four claims in a year. If the number of claims per year has a Poisson probability
+distribution, what is the average number of claims filed by a policyholder in one year?
