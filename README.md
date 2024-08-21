@@ -8,6 +8,10 @@ Given the past exams for the three tests given throughout the year, I made 3 tex
 
 I took two questions from each exam to create a new exam. 
 
+## Two ways to use this generator 
+### 1. Clone this repository 
+
+### 2. Download the raw code from the 'src' file, and all of the 'exam' text files, and open it up on your IDE
 
 ### Future additions
 - Add techniques and upload files to ReadMe
