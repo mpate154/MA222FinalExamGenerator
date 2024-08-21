@@ -9,15 +9,23 @@ public class ExamMaker {
     ArrayList<String> exam2 = new ArrayList<>();
     ArrayList<String> exam3 = new ArrayList<>();
 
-    // function that reads the text file with every question, and stores each questions in an ArrayList per exam
+    /**
+     * Reads the 3 Exam text files, seperates each questions and adds to a String, and adds to an ArrayList that holds
+     * questions for each Exam 
+     */
     ExamMaker() {
-        try {
+        try { //reads text file for Exam 1
             File newFile = new File("Exam1.txt");
             Scanner scan = new Scanner(newFile);
+            //Puts 1., 2., 3. ..etc into a hashmap so when looking through text file, it's easier to identify
+            //the beginning of a question. 
             Map<String, Integer> ints = new HashMap<>();
             for (int i = 1; i < 10; i++) {
                 ints.put(i + ". ", 1);
             }
+            //Use a while-loop to look through text file, seeing if 1., 2. ..etc (the beginning of a question henceforth the end of the previous) is present
+            //We then add this full question to an ArrayList holding all questions
+            //Because a question in the text file can take up multiple lines, a StringBuilder helps to concat all parts of the question into a single String
             StringBuilder question = new StringBuilder();
             question.append(scan.nextLine());
             while (scan.hasNextLine()) {
@@ -31,7 +39,8 @@ public class ExamMaker {
                 }
             }
             exam1.add(question.toString());
-
+            
+            //Same process for exam 2
             newFile = new File("Exam2.txt");
             scan = new Scanner(newFile);
             question = new StringBuilder();
@@ -48,6 +57,7 @@ public class ExamMaker {
             }
             exam2.add(question.toString());
 
+            //Same process for Exam 3
             newFile = new File("Exam3.txt");
             scan = new Scanner(newFile);
             question = new StringBuilder();
@@ -69,8 +79,12 @@ public class ExamMaker {
         }
     }
 
+        /** 
+         * Picks three random questions (may repeat) from each question-holding Array and prints it
+         * to generate an exam
+         */ 
         public void generateExam(){
-
+        
             int max = exam1.size();
             int min = 0;
             int range = max - min + 1;
