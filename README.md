@@ -1,4 +1,6 @@
 # MA222FinalExamGenerator
+**Made Spring 2024 - exams not updated since
+
 Using my file reading skills and data structures skills, I created a Final Exam Generator to help me study for my probability exam. Because past exams were given, this code picks random questions from past tests and creates an exam. Check out this cool self-project (Yes, I was doing this to procrastinate studying as well, but it paid off)! 
 
 Given the past exams for the three exams given throughout the semester, I made 3 text files with all the exams from each test (ex. all exam 1's were in a text file). I tried to use a converter but because of the different formats (some docx, some scanned jpegs, and some pdf), it was easier to copy and paste each exam manually. 
@@ -25,7 +27,7 @@ OR
 
 ## Usage
 If the last semester's exams have been added to the Canvas page
-- copy and paste those tests into the appropriate test text files
+- copy and paste those tests into the appropriate test text files (These files contain up to the 2024 tests) 
 - run the 'main' file to generate an exam!
 - Copy and paste the second line multiple times if you want multiple exams to be generated.
 
